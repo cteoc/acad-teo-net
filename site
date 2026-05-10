@@ -5,3 +5,9 @@ https://www.geeksforgeeks.org/tag/linux-command/
 https://docs.fab.lse.ac.uk/docs/linux-commands/
 
 https://git-scm.com/cheat-sheet
+
+
+
+git config --global --list
+
+git lof -1
